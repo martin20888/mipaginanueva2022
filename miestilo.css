@@ -1,0 +1,73 @@
+
+
+
+.anchobarra{
+    height: 80px;
+}
+
+.formatobarra {
+    text-decoration: none;
+    color: rgb(135, 135, 135);
+    margin: 0 10px;
+    
+}
+
+a:hover {
+    color: aliceblue;
+    
+}
+
+.comprar{
+    color: rgb(0, 105, 70);
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+
+.imagenfondo{
+    background-image: url(imagenes/ba1.jpg);
+    
+}
+
+.tamboton{
+    padding: 0px 5px;
+
+}
+
+.margenesimg{
+    margin: 1%;
+    padding: 0%;
+}
+
+.textocentrado{
+    width: 12%;
+    text-align: center;
+    font-size: small;
+    margin-left: 45%;
+}
+
+#orador{
+    font-size: 25px;
+}
+
+.textoalcentro{
+    text-align: center;
+}
+
+.formulario{
+    margin: 0% 25%;
+}
+
+.botonverde{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+    
+
